@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Properties accessors/Theory/Minesweeper.Topics-Properties_accessors-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Properties accessors/Theory/Minesweeper.Topics-Properties_accessors-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Properties accessors/Theory/Minesweeper.Topics-Properties_accessors-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Properties accessors/Theory/Minesweeper.Topics-Properties_accessors-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Properties accessors/Theory/Minesweeper.Topics-Properties_accessors-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Properties accessors/Theory/Minesweeper.Topics-Properties_accessors-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Properties accessors/Weather comparison/Minesweeper.Topics-Properties_accessors-Weather_comparison.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Properties accessors/Weather comparison/Minesweeper.Topics-Properties_accessors-Weather_comparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Properties accessors/Weather comparison/Minesweeper.Topics-Properties_accessors-Weather_comparison.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Properties accessors/Weather comparison/Minesweeper.Topics-Properties_accessors-Weather_comparison.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Properties accessors/Weather comparison/Minesweeper.Topics-Properties_accessors-Weather_comparison.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Properties accessors/Weather comparison/Minesweeper.Topics-Properties_accessors-Weather_comparison.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.test.iml" />
+    </modules>
+  </component>
+</project>

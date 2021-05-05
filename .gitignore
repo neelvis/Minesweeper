@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/build/classes/java/test/
+/Topics/Properties accessors/Theory/build/
+/Topics/Properties accessors/Weather comparison/build/
